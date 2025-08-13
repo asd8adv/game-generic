@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.2)
 project(generic)
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 23)
 set(SOURCES_PATH ${CMAKE_SOURCE_DIR}/source)
 
 set(HEADERS
